@@ -1,0 +1,288 @@
+1     |                ../tests/pup/wx3.txt |                    ../tests/wx3.txt | 29/03/22 15:25:25
+2     |                    ../tests/k25.txt |                   ../tests/px14.txt | 29/03/22 15:25:25
+3     |                  file doesn't exist |                 ../tests/pup/s2.txt | 29/03/22 15:25:25
+4     |                 ../tests/pup/d9.txt |                  file doesn't exist | 29/03/22 15:25:25
+1     |                ../tests/pup/d14.txt |                    ../tests/d14.txt | 29/03/22 15:25:25
+2     |                ../tests/pup/xe7.txt |                ../tests/pup/py9.txt | 29/03/22 15:25:25
+3     |                  file doesn't exist |                ../tests/pup/u56.txt | 29/03/22 15:25:25
+4     |                    ../tests/e58.txt |                  file doesn't exist | 29/03/22 15:25:25
+1     |                     ../tests/g6.txt |                 ../tests/pup/g6.txt | 29/03/22 15:25:25
+2     |                    ../tests/kq1.txt |                    ../tests/un5.txt | 29/03/22 15:25:25
+3     |                  file doesn't exist |                 ../tests/pup/v4.txt | 29/03/22 15:25:25
+4     |                    ../tests/w63.txt |                  file doesn't exist | 29/03/22 15:25:25
+1     |                 ../tests/pup/p4.txt |                     ../tests/p4.txt | 29/03/22 15:25:25
+2     |                    ../tests/ej9.txt |                     ../tests/p2.txt | 29/03/22 15:25:25
+3     |                  file doesn't exist |                   ../tests/m229.txt | 29/03/22 15:25:25
+4     |                    ../tests/ph9.txt |                  file doesn't exist | 29/03/22 15:25:25
+1     |                   ../tests/x777.txt |               ../tests/pup/x777.txt | 29/03/22 15:25:25
+2     |                 ../tests/pup/o7.txt |               ../tests/pup/a618.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                ../tests/pup/v88.txt | 29/03/22 15:25:26
+4     |                    ../tests/vs3.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                    ../tests/mr4.txt |                 ../tests/mr4[3].txt | 29/03/22 15:25:26
+2     |                    ../tests/db9.txt |                     ../tests/d3.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |               ../tests/pup/bck3.txt | 29/03/22 15:25:26
+4     |                 ../tests/pup/g6.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                     ../tests/i7.txt |                 ../tests/pup/i7.txt | 29/03/22 15:25:26
+2     |               ../tests/pup/v395.txt |                 ../tests/pup/b6.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |               ../tests/pup/grk6.txt | 29/03/22 15:25:26
+4     |                     ../tests/e5.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/pup/n8.txt |                     ../tests/n8.txt | 29/03/22 15:25:26
+2     |                    ../tests/s99.txt |                   ../tests/yl61.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                 ../tests/pup/m4.txt | 29/03/22 15:25:26
+4     |                     ../tests/o6.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/pup/a5.txt |                     ../tests/a5.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/d6.txt |                ../tests/pup/m95.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                     ../tests/i2.txt | 29/03/22 15:25:26
+4     |               ../tests/pup/grk6.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                   ../tests/p958.txt |               ../tests/pup/p958.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/j7.txt |                ../tests/pup/gl9.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                   ../tests/ph73.txt | 29/03/22 15:25:26
+4     |                ../tests/pup/m95.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                     ../tests/o4.txt |                 ../tests/pup/o4.txt | 29/03/22 15:25:26
+2     |                     ../tests/u1.txt |                     ../tests/z5.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                    ../tests/hh4.txt | 29/03/22 15:25:26
+4     |               ../tests/pup/mia4.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |               ../tests/pup/z665.txt |                   ../tests/z665.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/o4.txt |                 ../tests/pup/l2.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                    ../tests/rs6.txt | 29/03/22 15:25:26
+4     |                   ../tests/z665.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                     ../tests/p4.txt |                 ../tests/pup/p4.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/p4.txt |                 ../tests/pup/s8.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |               ../tests/pup/gzf8.txt | 29/03/22 15:25:26
+4     |                   ../tests/z811.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/pup/q4.txt |                     ../tests/q4.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/r7.txt |                 ../tests/pup/f6.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                 ../tests/pup/n1.txt | 29/03/22 15:25:26
+4     |                ../tests/pup/v88.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/pup/l2.txt |                     ../tests/l2.txt | 29/03/22 15:25:26
+2     |                    ../tests/q29.txt |                    ../tests/i17.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                   ../tests/vd72.txt | 29/03/22 15:25:26
+4     |                    ../tests/wx3.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/pup/m4.txt |                     ../tests/m4.txt | 29/03/22 15:25:26
+2     |               ../tests/pup/wd12.txt |                ../tests/pup/zu3.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |               ../tests/pup/xc51.txt | 29/03/22 15:25:26
+4     |                    ../tests/d14.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                     ../tests/m4.txt |                 ../tests/pup/m4.txt | 29/03/22 15:25:26
+2     |                  ../tests/i1[4].txt |                   ../tests/zff8.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                    ../tests/o15.txt | 29/03/22 15:25:26
+4     |                   ../tests/vd72.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |               ../tests/pup/sqb6.txt |                   ../tests/sqb6.txt | 29/03/22 15:25:26
+2     |               ../tests/pup/a618.txt |               ../tests/pup/c633.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                   ../tests/jeu3.txt | 29/03/22 15:25:26
+4     |                     ../tests/h6.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                     ../tests/a5.txt |                 ../tests/pup/a5.txt | 29/03/22 15:25:26
+2     |                 ../tests/pup/a3.txt |               ../tests/pup/xsm9.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                   ../tests/mu49.txt | 29/03/22 15:25:26
+4     |                     ../tests/i1.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                 ../tests/mr4[3].txt |             ../tests/pup/mr4[2].txt | 29/03/22 15:25:26
+2     |                   ../tests/m229.txt |                    ../tests/q74.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                    ../tests/hz2.txt | 29/03/22 15:25:26
+4     |                ../tests/pup/o68.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |                    ../tests/o15.txt |                ../tests/pup/o15.txt | 29/03/22 15:25:26
+2     |                ../tests/pup/f94.txt |               ../tests/pup/i452.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |               ../tests/pup/js95.txt | 29/03/22 15:25:26
+4     |                     ../tests/k8.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |               ../tests/pup/n231.txt |                   ../tests/n231.txt | 29/03/22 15:25:26
+2     |                ../tests/pup/wu4.txt |               ../tests/pup/l242.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                   ../tests/yo92.txt | 29/03/22 15:25:26
+4     |               ../tests/pup/isj6.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |               ../tests/pup/gg25.txt |                   ../tests/gg25.txt | 29/03/22 15:25:26
+2     |                   ../tests/ss27.txt |                    ../tests/c72.txt | 29/03/22 15:25:26
+3     |                  file doesn't exist |                ../tests/pup/g91.txt | 29/03/22 15:25:26
+4     |                    ../tests/l32.txt |                  file doesn't exist | 29/03/22 15:25:26
+1     |               ../tests/pup/duu5.txt |                   ../tests/duu5.txt | 29/03/22 15:25:27
+2     |             ../tests/pup/mr4[2].txt |                 ../tests/pup/t1.txt | 29/03/22 15:25:27
+3     |                  file doesn't exist |                    ../tests/ga6.txt | 29/03/22 15:25:27
+4     |                ../tests/pup/zu3.txt |                  file doesn't exist | 29/03/22 15:25:27
+1     |               ../tests/pup/xsm9.txt |                   ../tests/xsm9.txt | 29/03/22 15:46:24
+2     |                     ../tests/u2.txt |                   ../tests/j589.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                ../tests/pup/qe4.txt | 29/03/22 15:46:24
+4     |               ../tests/pup/d897.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                 ../tests/pup/p1.txt |                     ../tests/p1.txt | 29/03/22 15:46:24
+2     |                    ../tests/ia2.txt |                     ../tests/m6.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                 ../tests/pup/e2.txt | 29/03/22 15:46:24
+4     |               ../tests/pup/u545.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                   ../tests/zff8.txt |               ../tests/pup/zff8.txt | 29/03/22 15:46:24
+2     |                 ../tests/pup/t9.txt |                 ../tests/pup/n4.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                 ../tests/pup/p8.txt | 29/03/22 15:46:24
+4     |                ../tests/pup/k58.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                   ../tests/duu5.txt |               ../tests/pup/duu5.txt | 29/03/22 15:46:24
+2     |                    ../tests/x81.txt |                     ../tests/b1.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                ../tests/pup/ci8.txt | 29/03/22 15:46:24
+4     |                    ../tests/c72.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                     ../tests/g5.txt |                 ../tests/pup/g5.txt | 29/03/22 15:46:24
+2     |                     ../tests/w7.txt |                    ../tests/ov7.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                ../tests/pup/w34.txt | 29/03/22 15:46:24
+4     |                   ../tests/xia3.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                 ../tests/pup/v4.txt |                     ../tests/v4.txt | 29/03/22 15:46:24
+2     |                   ../tests/z178.txt |                     ../tests/w6.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                ../tests/pup/qz3.txt | 29/03/22 15:46:24
+4     |                 ../tests/pup/m4.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                   ../tests/s791.txt |               ../tests/pup/s791.txt | 29/03/22 15:46:24
+2     |                ../tests/pup/vf5.txt |               ../tests/pup/fj34.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                    ../tests/h13.txt | 29/03/22 15:46:24
+4     |                 ../tests/pup/u9.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                   ../tests/y387.txt |               ../tests/pup/y387.txt | 29/03/22 15:46:24
+2     |                ../tests/pup/ci8.txt |                ../tests/pup/qv8.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                    ../tests/sd5.txt | 29/03/22 15:46:24
+4     |                    ../tests/i46.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                   ../tests/b793.txt |               ../tests/pup/b793.txt | 29/03/22 15:46:24
+2     |               ../tests/pup/c633.txt |                ../tests/pup/ht9.txt | 29/03/22 15:46:24
+3     |                  file doesn't exist |                    ../tests/h75.txt | 29/03/22 15:46:24
+4     |                     ../tests/i2.txt |                  file doesn't exist | 29/03/22 15:46:24
+1     |                ../tests/pup/o15.txt |                    ../tests/o15.txt | 29/03/22 15:46:25
+2     |                   ../tests/px14.txt |                   ../tests/my58.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                   ../tests/wb19.txt | 29/03/22 15:46:25
+4     |                   ../tests/mu49.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                ../tests/pup/uu5.txt |                    ../tests/uu5.txt | 29/03/22 15:46:25
+2     |                    ../tests/hh4.txt |                   ../tests/a445.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |               ../tests/pup/is88.txt | 29/03/22 15:46:25
+4     |                     ../tests/b1.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |               ../tests/pup/bck3.txt |                   ../tests/bck3.txt | 29/03/22 15:46:25
+2     |                     ../tests/p2.txt |                     ../tests/d5.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                    ../tests/cj6.txt | 29/03/22 15:46:25
+4     |                     ../tests/d5.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |               ../tests/pup/s791.txt |                   ../tests/s791.txt | 29/03/22 15:46:25
+2     |                     ../tests/v1.txt |                   ../tests/it55.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |               ../tests/pup/mdd2.txt | 29/03/22 15:46:25
+4     |                    ../tests/uu5.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                 ../tests/pup/p8.txt |                     ../tests/p8.txt | 29/03/22 15:46:25
+2     |                ../tests/pup/sk2.txt |                 ../tests/pup/m7.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |               ../tests/pup/rf54.txt | 29/03/22 15:46:25
+4     |                     ../tests/q2.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                     ../tests/w6.txt |                 ../tests/pup/w6.txt | 29/03/22 15:46:25
+2     |                     ../tests/u8.txt |                   ../tests/ldd4.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                 ../tests/pup/z7.txt | 29/03/22 15:46:25
+4     |                   ../tests/jbr6.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                ../tests/pup/gh1.txt |                    ../tests/gh1.txt | 29/03/22 15:46:25
+2     |                    ../tests/wz7.txt |                     ../tests/x7.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                ../tests/pup/dp1.txt | 29/03/22 15:46:25
+4     |                   ../tests/pc61.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                   ../tests/n735.txt |               ../tests/pup/n735.txt | 29/03/22 15:46:25
+2     |                     ../tests/n8.txt |                     ../tests/x2.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                ../tests/pup/za9.txt | 29/03/22 15:46:25
+4     |                     ../tests/t7.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                   ../tests/im37.txt |               ../tests/pup/im37.txt | 29/03/22 15:46:25
+2     |                    ../tests/pa7.txt |                   ../tests/d597.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                    ../tests/m37.txt | 29/03/22 15:46:25
+4     |                     ../tests/x7.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                ../tests/pup/lj5.txt |                    ../tests/lj5.txt | 29/03/22 15:46:25
+2     |                 ../tests/pup/i7.txt |                ../tests/pup/uk8.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                    ../tests/zj4.txt | 29/03/22 15:46:25
+4     |               ../tests/pup/js95.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                    ../tests/su9.txt |                ../tests/pup/su9.txt | 29/03/22 15:46:25
+2     |                    ../tests/h75.txt |                     ../tests/z6.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                 ../tests/pup/g9.txt | 29/03/22 15:46:25
+4     |                     ../tests/v2.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                 ../tests/pup/z4.txt |                     ../tests/z4.txt | 29/03/22 15:46:25
+2     |                   ../tests/n231.txt |                    ../tests/nl8.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                ../tests/pup/dc5.txt | 29/03/22 15:46:25
+4     |                   ../tests/d288.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                    ../tests/lj8.txt |                ../tests/pup/lj8.txt | 29/03/22 15:46:25
+2     |                 ../tests/pup/o1.txt |                ../tests/pup/e42.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |               ../tests/pup/fdc5.txt | 29/03/22 15:46:25
+4     |                    ../tests/h13.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                ../tests/pup/l46.txt |                    ../tests/l46.txt | 29/03/22 15:46:25
+2     |               ../tests/pup/is88.txt |                 ../tests/pup/b1.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                 ../tests/pup/s5.txt | 29/03/22 15:46:25
+4     |                 ../tests/pup/z7.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |                   ../tests/e468.txt |               ../tests/pup/e468.txt | 29/03/22 15:46:25
+2     |               ../tests/pup/l242.txt |               ../tests/pup/rpp7.txt | 29/03/22 15:46:25
+3     |                  file doesn't exist |                    ../tests/j53.txt | 29/03/22 15:46:25
+4     |                   ../tests/gg25.txt |                  file doesn't exist | 29/03/22 15:46:25
+1     |               ../tests/pup/vyc1.txt |                   ../tests/vyc1.txt | 29/03/22 15:47:15
+2     |                     ../tests/c1.txt |                   ../tests/ti23.txt | 29/03/22 15:47:15
+3     |                  file doesn't exist |                ../tests/pup/s12.txt | 29/03/22 15:47:15
+4     |                 ../tests/pup/a5.txt |                  file doesn't exist | 29/03/22 15:47:15
+1     |               ../tests/pup/a276.txt |                   ../tests/a276.txt | 29/03/22 15:47:15
+2     |               ../tests/pup/rpp7.txt |                 ../tests/pup/t8.txt | 29/03/22 15:47:15
+3     |                  file doesn't exist |                ../tests/pup/x14.txt | 29/03/22 15:47:16
+4     |                     ../tests/p1.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                   ../tests/yi29.txt |               ../tests/pup/yi29.txt | 29/03/22 15:47:16
+2     |                ../tests/pup/gl9.txt |               ../tests/pup/l381.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                   ../tests/r915.txt | 29/03/22 15:47:16
+4     |                    ../tests/f41.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                 ../tests/pup/t1.txt |                     ../tests/t1.txt | 29/03/22 15:47:16
+2     |                 ../tests/pup/m7.txt |                 ../tests/pup/b7.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                ../tests/pup/oe7.txt | 29/03/22 15:47:16
+4     |                    ../tests/l71.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                     ../tests/z4.txt |                 ../tests/pup/z4.txt | 29/03/22 15:47:16
+2     |               ../tests/pup/y387.txt |                 ../tests/pup/w5.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                    ../tests/q11.txt | 29/03/22 15:47:16
+4     |                   ../tests/bck3.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                 ../tests/pup/m3.txt |                     ../tests/m3.txt | 29/03/22 15:47:16
+2     |                     ../tests/t5.txt |                   ../tests/wf41.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                ../tests/pup/i61.txt | 29/03/22 15:47:16
+4     |                 ../tests/pup/t8.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                  ../tests/v2[2].txt |              ../tests/pup/v2[2].txt | 29/03/22 15:47:16
+2     |                   ../tests/mf33.txt |                   ../tests/ls47.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |               ../tests/pup/b395.txt | 29/03/22 15:47:16
+4     |                   ../tests/hah2.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                    ../tests/hz2.txt |                ../tests/pup/hz2.txt | 29/03/22 15:47:16
+2     |                ../tests/pup/oe7.txt |                ../tests/pup/ir1.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                ../tests/pup/e15.txt | 29/03/22 15:47:16
+4     |                ../tests/pup/za9.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                   ../tests/wf41.txt |               ../tests/pup/wf41.txt | 29/03/22 15:47:16
+2     |                     ../tests/z6.txt |                   ../tests/yp83.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                    ../tests/of6.txt | 29/03/22 15:47:16
+4     |                 ../tests/pup/m5.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                   ../tests/yo92.txt |               ../tests/pup/yo92.txt | 29/03/22 15:47:16
+2     |                 ../tests/zy2[2].txt |                    ../tests/f79.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |               ../tests/pup/b231.txt | 29/03/22 15:47:16
+4     |                   ../tests/j589.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                    ../tests/i17.txt |                ../tests/pup/i17.txt | 29/03/22 15:47:16
+2     |                     ../tests/p8.txt |                    ../tests/l61.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                 ../tests/pup/s9.txt | 29/03/22 15:47:16
+4     |                ../tests/pup/qe4.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                ../tests/pup/su9.txt |                    ../tests/su9.txt | 29/03/22 15:47:16
+2     |               ../tests/pup/b231.txt |                 ../tests/pup/v1.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                     ../tests/u1.txt | 29/03/22 15:47:16
+4     |               ../tests/pup/mdd2.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                    ../tests/x29.txt |                ../tests/pup/x29.txt | 29/03/22 15:47:16
+2     |                     ../tests/v4.txt |                   ../tests/jf66.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                   ../tests/kbu7.txt | 29/03/22 15:47:16
+4     |                   ../tests/wb19.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |               ../tests/pup/w727.txt |                   ../tests/w727.txt | 29/03/22 15:47:16
+2     |                     ../tests/t1.txt |                    ../tests/lh7.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                ../tests/pup/fn6.txt | 29/03/22 15:47:16
+4     |                ../tests/pup/uk8.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                   ../tests/am39.txt |               ../tests/pup/am39.txt | 29/03/22 15:47:16
+2     |                ../tests/pup/qv8.txt |               ../tests/pup/rta5.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                     ../tests/x8.txt | 29/03/22 15:47:16
+4     |               ../tests/pup/y221.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                ../tests/pup/g91.txt |                    ../tests/g91.txt | 29/03/22 15:47:16
+2     |                 ../tests/pup/z4.txt |                ../tests/pup/ht1.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                 ../tests/pup/w2.txt | 29/03/22 15:47:16
+4     |                 ../tests/pup/n1.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                ../tests/pup/i61.txt |                    ../tests/i61.txt | 29/03/22 15:47:16
+2     |                     ../tests/d3.txt |                     ../tests/t5.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |                    ../tests/x61.txt | 29/03/22 15:47:16
+4     |                ../tests/pup/i17.txt |                  file doesn't exist | 29/03/22 15:47:16
+1     |                   ../tests/yl61.txt |               ../tests/pup/yl61.txt | 29/03/22 15:47:16
+2     |                ../tests/pup/py9.txt |                 ../tests/pup/y8.txt | 29/03/22 15:47:16
+3     |                  file doesn't exist |               ../tests/pup/w445.txt | 29/03/22 15:47:16
+4     |               ../tests/pup/am39.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |                ../tests/pup/fn6.txt |                    ../tests/fn6.txt | 29/03/22 15:47:17
+2     |                ../tests/pup/ii7.txt |                ../tests/pup/m72.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                     ../tests/f1.txt | 29/03/22 15:47:17
+4     |               ../tests/pup/kr78.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |                   ../tests/r915.txt |               ../tests/pup/r915.txt | 29/03/22 15:47:17
+2     |                ../tests/pup/ru7.txt |                 ../tests/pup/z7.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                    ../tests/yt6.txt | 29/03/22 15:47:17
+4     |               ../tests/pup/i452.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |               ../tests/pup/yi29.txt |                   ../tests/yi29.txt | 29/03/22 15:47:17
+2     |               ../tests/pup/fdc5.txt |                 ../tests/pup/d7.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                 ../tests/pup/q1.txt | 29/03/22 15:47:17
+4     |                     ../tests/s9.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |                   ../tests/vyc1.txt |               ../tests/pup/vyc1.txt | 29/03/22 15:47:17
+2     |                 ../tests/pup/s2.txt |               ../tests/pup/y422.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                    ../tests/dy9.txt | 29/03/22 15:47:17
+4     |                    ../tests/i61.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |                   ../tests/kbu7.txt |               ../tests/pup/kbu7.txt | 29/03/22 15:47:17
+2     |                 ../tests/pup/g9.txt |               ../tests/pup/th32.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                ../tests/pup/t92.txt | 29/03/22 15:47:17
+4     |                    ../tests/fc4.txt |                  file doesn't exist | 29/03/22 15:47:17
+1     |                    ../tests/sd5.txt |                ../tests/pup/sd5.txt | 29/03/22 15:47:17
+2     |               ../tests/pup/yl61.txt |                 ../tests/pup/l2.txt | 29/03/22 15:47:17
+3     |                  file doesn't exist |                ../tests/pup/x45.txt | 29/03/22 15:47:17
+4     |                 ../tests/pup/f6.txt |                  file doesn't exist | 29/03/22 15:47:17
